@@ -1,0 +1,245 @@
+.head {
+  background-image: url(back.jpg);
+  width: 100%;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  margin: 0;
+}
+
+.textt {
+  color: black;
+  font-size: 90px;
+  text-align: center;
+  font-family: "Roboto Slab", serif;
+  font-weight: 800;
+  position: absolute;
+  top: 605px;
+  left: 64px;
+}
+
+.navbar-brand {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-link {
+  color: black;
+}
+
+.skip {
+  height: 80px;
+  width: 100%;
+  background-color: black;
+  margin-top: -10px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.body2 {
+  margin-top: 80px;
+}
+
+.body3 {
+  margin-top: 80px;
+}
+
+.phone {
+  background-color: black;
+}
+
+.skip1 {
+  height: 80px;
+  width: 100%;
+  background-color: black;
+  margin-top: -20px;
+}
+
+.download {
+  margin-top: 30px;
+}
+
+.small {
+  position: absolute;
+  left: 50px;
+  height: 1000px;
+  width: 800px;
+}
+
+.nameofcity {
+  position: absolute;
+  left: 850px;
+  top: -10px;
+  font-size: 40px;
+  white-space: nowrap;
+}
+
+#but {
+  height: 200px;
+  width: 350px;
+}
+
+.desk {
+  font-size: 18px;
+  color: grey;
+}
+
+.sub {
+  color: gray;
+  font-size: 12px;
+  position: absolute;
+  top: 240px;
+  left: 2px;
+}
+
+.des {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.foot {
+  background-color: black;
+}
+
+.plus {
+  font-size: 25px;
+  color: white;
+}
+
+.plus1 {
+  font-size: 15px;
+  color: white;
+}
+
+.des1 {
+  font-size: 20px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+#korm {
+  text-decoration: none;
+  color: white;
+}
+
+#ty {
+  width: 100%;
+  background-color: white;
+  margin-top: 492px;
+  height: 80px;
+}
+
+.foot1 {
+  background-color: gray;
+}
+
+.desq {
+  color: black;
+}
+
+.des1q {
+  color: black;
+}
+
+.plusq {
+  color: black;
+}
+
+.plus1q {
+  color: black;
+}
+
+.qw {
+  background-color: black;
+}
+
+.a {
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.opp {
+  text-decoration: none;
+  color: white;
+}
+
+.plug {
+  background-color: black;
+}
+
+.asd {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.asd1 {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+#b {
+  position: absolute;
+  left: 0px;
+}
+
+.k {
+  position: absolute;
+  left: 0px;
+}
+
+.l {
+  font-size: 20px;
+  position: absolute;
+  left: 781px;
+}
+
+#plugin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ska {
+  text-align: center;
+}
+
+.j {
+  text-decoration: none;
+  color: white;
+}
+
+.body4 {
+  margin-top: 80px;
+}
+
+#m {
+  color: white;
+}
+
+.donttouch {
+  color: white;
+  text-decoration: none;
+}

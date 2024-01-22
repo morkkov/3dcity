@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+}
+
+.name {
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  margin-top: 0px;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+}
+
+.img {
+  height: 500px;
+  width: 800px;
+}
+
+.text1 {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 15px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.img1 {
+  height: 500px;
+  width: 800px;
+}
+
+.img2 {
+  height: 500px;
+  width: 800px;
+  margin-bottom: 30px;
+}
